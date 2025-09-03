@@ -1,0 +1,31 @@
+{
+    "inactiveMaxTime": 600,
+    "videoScreenshot": {
+        "screenshotSecond": 3.0
+    },
+    "ctaScreen": {
+        "minimumDisplayTime": 5.0,
+        "canAdvanceByButton": true,
+        "canAdvanceByFaceDetection": true
+    },
+    "coreExperience": {
+        "photoCountdownTime": 3.0,
+        "textDisplayDuration": 2.0,
+        "requireFaceForPhoto": true
+    },
+    "resultScreen": {
+        "autoResetTime": 18.0,
+        "warningTime": 15.0,
+        "baseDownloadUrl": "https://example.com/download/"
+    },
+    "textBalloon": {
+        "shuffleSpeed": 0.1,
+        "shuffleDuration": 2.0,
+        "useWorldPosition": true,
+        "worldOffset": [0, 2, 0]
+    },
+    "faceTracking": {
+        "enableFaceTracking": true,
+        "faceDetectionDelay": 0.5
+    }
+}
