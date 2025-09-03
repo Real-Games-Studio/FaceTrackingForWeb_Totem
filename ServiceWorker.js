@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-UniversalHeadTracker-0.1.0";
 const contentToCache = [
     "Build/FaceTrackingForWeb_Totem.loader.js",
-    "Build/FaceTrackingForWeb_Totem.framework.js.br",
-    "Build/FaceTrackingForWeb_Totem.data.br",
-    "Build/FaceTrackingForWeb_Totem.wasm.br",
+    "Build/FaceTrackingForWeb_Totem.framework.js",
+    "Build/FaceTrackingForWeb_Totem.data",
+    "Build/FaceTrackingForWeb_Totem.wasm",
     "TemplateData/style.css"
 
 ];
